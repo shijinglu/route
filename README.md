@@ -1,3 +1,5 @@
+### Route is demo app that shows how to draw lines using google map API with React
+
 ### Quick Start
 
 1. Install yarn and build
